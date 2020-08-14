@@ -1,0 +1,12 @@
+{
+	"id": "f1539cf2-c844-11ea-87d0-0242ac130003",
+	"task": "onboarding",
+	"createAt" : "Thu Jun 22 21:00:00 +0000 2017",
+	"user": {
+		"id": "f1539cf2-c844-11ea-87d0-0242ac130003",
+		"username": "nadtakan.jones",
+		"createAt" : "Thu Jun 22 21:00:00 +0000 2017"
+	},
+	"file": "onboarding.pdf",
+	"status": false
+}

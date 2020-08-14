@@ -1,0 +1,17 @@
+service: backend-slack-chatbot
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  region: us-east-1
+  profile: nadtakan
+
+functions:
+  slackchatbot:
+    handler: handler.slackchatbot
+    events:
+      - http:  
+          path: chatbot
+          method: post
+

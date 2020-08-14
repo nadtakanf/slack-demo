@@ -1,0 +1,27 @@
+{
+  "name": "edify-technical-interview-nadtakan",
+  "version": "1.0.0",
+  "description": "Take Home Code Sample for Edify Engineering Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwitherspoon/Edify-Technical-Interview-Nadtakan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexwitherspoon/Edify-Technical-Interview-Nadtakan/issues"
+  },
+  "homepage": "https://github.com/alexwitherspoon/Edify-Technical-Interview-Nadtakan#readme",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "prettier": "2.0.5"
+  }
+}
